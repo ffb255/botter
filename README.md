@@ -22,7 +22,6 @@ On::text("/start", function() use ($botter) {
 
 $botter->listen();
 ```
-You can also join our **Telegram Group**: [@BotterGroup](https://t.me/BotterGroup)
 
 ## Features
 * Conversations
